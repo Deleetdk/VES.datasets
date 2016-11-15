@@ -9,6 +9,5 @@ use_data(VES_general, overwrite = T)
 # update package ----------------------------------------------------------
 document()
 
-devtools::install()
+install("../VES.datasets")
 
-library(VES.datasets)
