@@ -18,3 +18,17 @@ There are multiple VES datasets. Currently, only one is available.
 * Marital status
 * A few other things
 
+##How to use
+Simply install the package and load the data.
+
+```
+#install
+library(devtools)
+install_github("deleetdk/VES.datasets")
+
+#load
+library(VES.datasets)
+
+#load datasets
+data(VES_general)
+```
