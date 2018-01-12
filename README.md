@@ -18,7 +18,7 @@ There are multiple VES datasets. Currently, only one is available.
 * Marital status
 * A few other things
 
-##How to use
+## How to use
 Simply install the package and load the data.
 
 ```
